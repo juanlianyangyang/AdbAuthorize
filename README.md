@@ -6,3 +6,11 @@
 -    }
 +    auth_required = false;
 <br>
+
+测试环境：
+  meizu17pro Android10
+  meizu17pro Android11
+
+adbd编译自：
+  aosp10
+  aosp11
