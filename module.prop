@@ -1,0 +1,6 @@
+id=adb_authorize
+name=ADB Authorize
+version=v1
+versionCode=1
+author=juanlianyangyang
+description=打开ADB调试以及自动授权
